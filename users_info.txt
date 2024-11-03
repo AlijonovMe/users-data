@@ -5,3 +5,10 @@ Age: 17
 Phone: +998912060722
 Email: alijonov.me@gmail.com
 Address: Ferghana
+ID: 1
+Name: Toxir
+Lastname: Toxirov
+Age: 18
+Phone: +998901234567
+Email: toxirtoxirov@gmail.com
+Address: Ferghana
