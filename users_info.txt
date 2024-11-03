@@ -12,3 +12,10 @@ Age: 18
 Phone: +998901234567
 Email: toxirtoxirov@gmail.com
 Address: Ferghana
+ID: 2
+Name: Sobir 
+Lastname: Sobirov
+Age: 18
+Phone: +998908765432
+Email: sobir@gmail.com
+Address: ferghana
