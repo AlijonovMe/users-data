@@ -12,3 +12,11 @@ Age: 18
 Phone: +998908765432
 Email: sobir@gmail.com
 Address: ferghana
+
+ID: 1
+Name: Sobir
+Lastname: Sobirov
+Age: 18
+Phone: +998908765432
+Email: sobir@gmail.com
+Address: tashkent
