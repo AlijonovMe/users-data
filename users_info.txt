@@ -1,11 +1,4 @@
 ID: 1
-Name: Abdulbosit
-Lastname: Alijonov
-Age: 17
-Phone: +998912060722
-Email: alijonov.me@gmail.com
-Address: Ferghana
-ID: 1
 Name: Toxir
 Lastname: Toxirov
 Age: 18
